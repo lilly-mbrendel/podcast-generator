@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator - MB test"
 author: "Brendel Maxime"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
